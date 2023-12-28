@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Vendor -->
-  <project name="Professor-Berni/proprietary_vendor_sony"
+  <project name="kjmz14/proprietary_vendor_sony"
            path="vendor/sony"
            remote="github"
            revision="lineage-18.1" />
-  <!-- Extra vendor blob's -->
-  <project name="Professor-Berni/proprietary_vendor_sony_extras"
+  <!-- Extra vendor blobs -->
+  <project name="kjmz14/proprietary_vendor_sony_extras"
            path="vendor/sony/kitakami-common-extras"
            remote="github"
            revision="lineage-18.1" />
